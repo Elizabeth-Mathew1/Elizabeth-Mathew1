@@ -13,5 +13,5 @@ Skills: HTML / CSS / Canva / Illustrator / C++ / Python / ML
 - ⚡ Fun fact: I wanna pet a greyhound someday 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Mathew1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Mathew1&show_icons=true&theme=tokyonight)  
 

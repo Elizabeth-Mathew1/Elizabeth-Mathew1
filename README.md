@@ -6,7 +6,7 @@ Another Indian engineer in the making. A dynamic tech enthusiast filled with a k
 
 Explored areas of web development, app development, designing and found my niche in Machine Learning.
 
-Skills: HTML / CSS / Canva / Illustrator / C++ / Python / ML
+Skills: HTML / CSS / Flutter / Canva / Illustrator / C++ / Python / ML
 
 - 🌱 I’m currently learning OpenCV 
 - 😄 Pronouns: She/Her 

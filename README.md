@@ -10,7 +10,7 @@ Skills: HTML / CSS / Flutter / Canva / Illustrator / C++ / Python / ML
 
 - 🌱 I’m currently learning OpenCV / Deep Learning (ML)
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I wanna pet a greyhound someday 
+- ⚡ Fun fact: I dont like anything sweet, I mean chocolates :)
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Mathew1&show_icons=true&theme=tokyonight)  

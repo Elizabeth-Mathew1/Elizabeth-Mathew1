@@ -8,7 +8,7 @@ Explored areas of web development, app development, designing and found my niche
 
 Skills: HTML / CSS / Flutter / Canva / Illustrator / C++ / Python / ML
 
-- 🌱 I’m currently learning OpenCV / Deep Learning (ML)
+- 🌱 I’m currently learning React
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: JB is my all time fav
  

@@ -10,8 +10,7 @@ Skills: HTML / CSS / Javascript / React / C++ / Python / ML / OpenCV
 
 - 🌱 I’m currently learning React
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: JB is my all time fav
- 
+- ⚡ Fun fact: not a geek 🤓
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Mathew1&show_icons=true&theme=tokyonight)  
 

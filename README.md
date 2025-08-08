@@ -1,5 +1,5 @@
 ### Hi, I am Elizabeth Mathew
-###### CS Undergrad | Passionate Learner | Myself
+###### CS grad | Passionate Learner | Myself
 ![CS Grad | Passioante Learner | Myself](https://i.postimg.cc/ry3hgGmX/Blue-Modern-Corporate-Computer-and-Technology-Linkedin-Banner.png)
 
 Another Indian engineer in the making. A dynamic tech enthusiast filled with a keen interest to learn, grow and develop. Loves to work for and promote inclusion in today's tech spaces.
